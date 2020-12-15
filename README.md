@@ -2,6 +2,8 @@
 
 This is an application that uses the MovieDB API and is built with SwiftUI. It demos some SwiftUI (& Combine) concepts. The goal is to make a real world application using SwiftUI only. It'll be updated with new features as they come to the SwiftUI framework.
 
+![App Image](Image/Movie.png?)
+
 ## Architecture
 
 The app data flow is a subset and a custom implementation of the Flux part of [Redux](https://redux.js.org/). 
